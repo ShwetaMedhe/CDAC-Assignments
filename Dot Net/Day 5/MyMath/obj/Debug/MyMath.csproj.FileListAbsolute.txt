@@ -1,0 +1,6 @@
+C:\Users\IET\Desktop\Dot Net\CSharpDemos\MyMath\bin\Debug\MyMath.dll
+C:\Users\IET\Desktop\Dot Net\CSharpDemos\MyMath\bin\Debug\MyMath.pdb
+C:\Users\IET\Desktop\Dot Net\CSharpDemos\MyMath\obj\Debug\MyMath.csproj.AssemblyReference.cache
+C:\Users\IET\Desktop\Dot Net\CSharpDemos\MyMath\obj\Debug\MyMath.csproj.CoreCompileInputs.cache
+C:\Users\IET\Desktop\Dot Net\CSharpDemos\MyMath\obj\Debug\MyMath.dll
+C:\Users\IET\Desktop\Dot Net\CSharpDemos\MyMath\obj\Debug\MyMath.pdb

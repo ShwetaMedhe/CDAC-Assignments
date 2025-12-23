@@ -1,0 +1,15 @@
+C:\Users\IET\Desktop\Dot Net\CSharpDemos\Multi_CastDelegate\bin\Debug\net8.0\Multi_CastDelegate.exe
+C:\Users\IET\Desktop\Dot Net\CSharpDemos\Multi_CastDelegate\bin\Debug\net8.0\Multi_CastDelegate.deps.json
+C:\Users\IET\Desktop\Dot Net\CSharpDemos\Multi_CastDelegate\bin\Debug\net8.0\Multi_CastDelegate.runtimeconfig.json
+C:\Users\IET\Desktop\Dot Net\CSharpDemos\Multi_CastDelegate\bin\Debug\net8.0\Multi_CastDelegate.dll
+C:\Users\IET\Desktop\Dot Net\CSharpDemos\Multi_CastDelegate\bin\Debug\net8.0\Multi_CastDelegate.pdb
+C:\Users\IET\Desktop\Dot Net\CSharpDemos\Multi_CastDelegate\obj\Debug\net8.0\Multi_CastDelegate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IET\Desktop\Dot Net\CSharpDemos\Multi_CastDelegate\obj\Debug\net8.0\Multi_CastDelegate.AssemblyInfoInputs.cache
+C:\Users\IET\Desktop\Dot Net\CSharpDemos\Multi_CastDelegate\obj\Debug\net8.0\Multi_CastDelegate.AssemblyInfo.cs
+C:\Users\IET\Desktop\Dot Net\CSharpDemos\Multi_CastDelegate\obj\Debug\net8.0\Multi_CastDelegate.csproj.CoreCompileInputs.cache
+C:\Users\IET\Desktop\Dot Net\CSharpDemos\Multi_CastDelegate\obj\Debug\net8.0\Multi_CastDelegate.sourcelink.json
+C:\Users\IET\Desktop\Dot Net\CSharpDemos\Multi_CastDelegate\obj\Debug\net8.0\Multi_CastDelegate.dll
+C:\Users\IET\Desktop\Dot Net\CSharpDemos\Multi_CastDelegate\obj\Debug\net8.0\refint\Multi_CastDelegate.dll
+C:\Users\IET\Desktop\Dot Net\CSharpDemos\Multi_CastDelegate\obj\Debug\net8.0\Multi_CastDelegate.pdb
+C:\Users\IET\Desktop\Dot Net\CSharpDemos\Multi_CastDelegate\obj\Debug\net8.0\Multi_CastDelegate.genruntimeconfig.cache
+C:\Users\IET\Desktop\Dot Net\CSharpDemos\Multi_CastDelegate\obj\Debug\net8.0\ref\Multi_CastDelegate.dll

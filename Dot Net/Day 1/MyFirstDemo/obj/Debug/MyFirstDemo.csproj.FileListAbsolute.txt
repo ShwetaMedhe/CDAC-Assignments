@@ -1,0 +1,7 @@
+C:\Users\IET\source\repos\CSharpDemos\MyFirstDemo\bin\Debug\MyFirstDemo.exe.config
+C:\Users\IET\source\repos\CSharpDemos\MyFirstDemo\bin\Debug\MyFirstDemo.exe
+C:\Users\IET\source\repos\CSharpDemos\MyFirstDemo\bin\Debug\MyFirstDemo.pdb
+C:\Users\IET\source\repos\CSharpDemos\MyFirstDemo\obj\Debug\MyFirstDemo.csproj.AssemblyReference.cache
+C:\Users\IET\source\repos\CSharpDemos\MyFirstDemo\obj\Debug\MyFirstDemo.csproj.CoreCompileInputs.cache
+C:\Users\IET\source\repos\CSharpDemos\MyFirstDemo\obj\Debug\MyFirstDemo.exe
+C:\Users\IET\source\repos\CSharpDemos\MyFirstDemo\obj\Debug\MyFirstDemo.pdb

@@ -1,0 +1,15 @@
+C:\Users\IET\Desktop\Dot Net\CSharpDemos\Serialization_Demo\bin\Debug\net8.0\Serialization_Demo.exe
+C:\Users\IET\Desktop\Dot Net\CSharpDemos\Serialization_Demo\bin\Debug\net8.0\Serialization_Demo.deps.json
+C:\Users\IET\Desktop\Dot Net\CSharpDemos\Serialization_Demo\bin\Debug\net8.0\Serialization_Demo.runtimeconfig.json
+C:\Users\IET\Desktop\Dot Net\CSharpDemos\Serialization_Demo\bin\Debug\net8.0\Serialization_Demo.dll
+C:\Users\IET\Desktop\Dot Net\CSharpDemos\Serialization_Demo\bin\Debug\net8.0\Serialization_Demo.pdb
+C:\Users\IET\Desktop\Dot Net\CSharpDemos\Serialization_Demo\obj\Debug\net8.0\Serialization_Demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IET\Desktop\Dot Net\CSharpDemos\Serialization_Demo\obj\Debug\net8.0\Serialization_Demo.AssemblyInfoInputs.cache
+C:\Users\IET\Desktop\Dot Net\CSharpDemos\Serialization_Demo\obj\Debug\net8.0\Serialization_Demo.AssemblyInfo.cs
+C:\Users\IET\Desktop\Dot Net\CSharpDemos\Serialization_Demo\obj\Debug\net8.0\Serialization_Demo.csproj.CoreCompileInputs.cache
+C:\Users\IET\Desktop\Dot Net\CSharpDemos\Serialization_Demo\obj\Debug\net8.0\Serialization_Demo.sourcelink.json
+C:\Users\IET\Desktop\Dot Net\CSharpDemos\Serialization_Demo\obj\Debug\net8.0\Serialization_Demo.dll
+C:\Users\IET\Desktop\Dot Net\CSharpDemos\Serialization_Demo\obj\Debug\net8.0\refint\Serialization_Demo.dll
+C:\Users\IET\Desktop\Dot Net\CSharpDemos\Serialization_Demo\obj\Debug\net8.0\Serialization_Demo.pdb
+C:\Users\IET\Desktop\Dot Net\CSharpDemos\Serialization_Demo\obj\Debug\net8.0\Serialization_Demo.genruntimeconfig.cache
+C:\Users\IET\Desktop\Dot Net\CSharpDemos\Serialization_Demo\obj\Debug\net8.0\ref\Serialization_Demo.dll

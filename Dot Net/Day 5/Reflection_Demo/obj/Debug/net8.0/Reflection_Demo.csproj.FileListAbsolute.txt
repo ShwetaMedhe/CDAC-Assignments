@@ -1,0 +1,15 @@
+C:\Users\IET\Desktop\Dot Net\CSharpDemos\Reflection_Demo\bin\Debug\net8.0\Reflection_Demo.exe
+C:\Users\IET\Desktop\Dot Net\CSharpDemos\Reflection_Demo\bin\Debug\net8.0\Reflection_Demo.deps.json
+C:\Users\IET\Desktop\Dot Net\CSharpDemos\Reflection_Demo\bin\Debug\net8.0\Reflection_Demo.runtimeconfig.json
+C:\Users\IET\Desktop\Dot Net\CSharpDemos\Reflection_Demo\bin\Debug\net8.0\Reflection_Demo.dll
+C:\Users\IET\Desktop\Dot Net\CSharpDemos\Reflection_Demo\bin\Debug\net8.0\Reflection_Demo.pdb
+C:\Users\IET\Desktop\Dot Net\CSharpDemos\Reflection_Demo\obj\Debug\net8.0\Reflection_Demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IET\Desktop\Dot Net\CSharpDemos\Reflection_Demo\obj\Debug\net8.0\Reflection_Demo.AssemblyInfoInputs.cache
+C:\Users\IET\Desktop\Dot Net\CSharpDemos\Reflection_Demo\obj\Debug\net8.0\Reflection_Demo.AssemblyInfo.cs
+C:\Users\IET\Desktop\Dot Net\CSharpDemos\Reflection_Demo\obj\Debug\net8.0\Reflection_Demo.csproj.CoreCompileInputs.cache
+C:\Users\IET\Desktop\Dot Net\CSharpDemos\Reflection_Demo\obj\Debug\net8.0\Reflection_Demo.sourcelink.json
+C:\Users\IET\Desktop\Dot Net\CSharpDemos\Reflection_Demo\obj\Debug\net8.0\Reflection_Demo.dll
+C:\Users\IET\Desktop\Dot Net\CSharpDemos\Reflection_Demo\obj\Debug\net8.0\refint\Reflection_Demo.dll
+C:\Users\IET\Desktop\Dot Net\CSharpDemos\Reflection_Demo\obj\Debug\net8.0\Reflection_Demo.pdb
+C:\Users\IET\Desktop\Dot Net\CSharpDemos\Reflection_Demo\obj\Debug\net8.0\Reflection_Demo.genruntimeconfig.cache
+C:\Users\IET\Desktop\Dot Net\CSharpDemos\Reflection_Demo\obj\Debug\net8.0\ref\Reflection_Demo.dll

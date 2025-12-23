@@ -1,0 +1,15 @@
+C:\Users\IET\Desktop\Dot Net\CSharpDemos\Collection_Demo\bin\Debug\net8.0\Collection_Demo.exe
+C:\Users\IET\Desktop\Dot Net\CSharpDemos\Collection_Demo\bin\Debug\net8.0\Collection_Demo.deps.json
+C:\Users\IET\Desktop\Dot Net\CSharpDemos\Collection_Demo\bin\Debug\net8.0\Collection_Demo.runtimeconfig.json
+C:\Users\IET\Desktop\Dot Net\CSharpDemos\Collection_Demo\bin\Debug\net8.0\Collection_Demo.dll
+C:\Users\IET\Desktop\Dot Net\CSharpDemos\Collection_Demo\bin\Debug\net8.0\Collection_Demo.pdb
+C:\Users\IET\Desktop\Dot Net\CSharpDemos\Collection_Demo\obj\Debug\net8.0\Collection_Demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IET\Desktop\Dot Net\CSharpDemos\Collection_Demo\obj\Debug\net8.0\Collection_Demo.AssemblyInfoInputs.cache
+C:\Users\IET\Desktop\Dot Net\CSharpDemos\Collection_Demo\obj\Debug\net8.0\Collection_Demo.AssemblyInfo.cs
+C:\Users\IET\Desktop\Dot Net\CSharpDemos\Collection_Demo\obj\Debug\net8.0\Collection_Demo.csproj.CoreCompileInputs.cache
+C:\Users\IET\Desktop\Dot Net\CSharpDemos\Collection_Demo\obj\Debug\net8.0\Collection_Demo.sourcelink.json
+C:\Users\IET\Desktop\Dot Net\CSharpDemos\Collection_Demo\obj\Debug\net8.0\Collection_Demo.dll
+C:\Users\IET\Desktop\Dot Net\CSharpDemos\Collection_Demo\obj\Debug\net8.0\refint\Collection_Demo.dll
+C:\Users\IET\Desktop\Dot Net\CSharpDemos\Collection_Demo\obj\Debug\net8.0\Collection_Demo.pdb
+C:\Users\IET\Desktop\Dot Net\CSharpDemos\Collection_Demo\obj\Debug\net8.0\Collection_Demo.genruntimeconfig.cache
+C:\Users\IET\Desktop\Dot Net\CSharpDemos\Collection_Demo\obj\Debug\net8.0\ref\Collection_Demo.dll

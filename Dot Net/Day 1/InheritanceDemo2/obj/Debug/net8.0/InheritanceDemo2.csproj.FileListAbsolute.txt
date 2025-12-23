@@ -1,0 +1,15 @@
+C:\Users\IET\Desktop\Dot Net\CSharpDemos\InheritanceDemo2\bin\Debug\net8.0\InheritanceDemo2.exe
+C:\Users\IET\Desktop\Dot Net\CSharpDemos\InheritanceDemo2\bin\Debug\net8.0\InheritanceDemo2.deps.json
+C:\Users\IET\Desktop\Dot Net\CSharpDemos\InheritanceDemo2\bin\Debug\net8.0\InheritanceDemo2.runtimeconfig.json
+C:\Users\IET\Desktop\Dot Net\CSharpDemos\InheritanceDemo2\bin\Debug\net8.0\InheritanceDemo2.dll
+C:\Users\IET\Desktop\Dot Net\CSharpDemos\InheritanceDemo2\bin\Debug\net8.0\InheritanceDemo2.pdb
+C:\Users\IET\Desktop\Dot Net\CSharpDemos\InheritanceDemo2\obj\Debug\net8.0\InheritanceDemo2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IET\Desktop\Dot Net\CSharpDemos\InheritanceDemo2\obj\Debug\net8.0\InheritanceDemo2.AssemblyInfoInputs.cache
+C:\Users\IET\Desktop\Dot Net\CSharpDemos\InheritanceDemo2\obj\Debug\net8.0\InheritanceDemo2.AssemblyInfo.cs
+C:\Users\IET\Desktop\Dot Net\CSharpDemos\InheritanceDemo2\obj\Debug\net8.0\InheritanceDemo2.csproj.CoreCompileInputs.cache
+C:\Users\IET\Desktop\Dot Net\CSharpDemos\InheritanceDemo2\obj\Debug\net8.0\InheritanceDemo2.sourcelink.json
+C:\Users\IET\Desktop\Dot Net\CSharpDemos\InheritanceDemo2\obj\Debug\net8.0\InheritanceDemo2.dll
+C:\Users\IET\Desktop\Dot Net\CSharpDemos\InheritanceDemo2\obj\Debug\net8.0\refint\InheritanceDemo2.dll
+C:\Users\IET\Desktop\Dot Net\CSharpDemos\InheritanceDemo2\obj\Debug\net8.0\InheritanceDemo2.pdb
+C:\Users\IET\Desktop\Dot Net\CSharpDemos\InheritanceDemo2\obj\Debug\net8.0\InheritanceDemo2.genruntimeconfig.cache
+C:\Users\IET\Desktop\Dot Net\CSharpDemos\InheritanceDemo2\obj\Debug\net8.0\ref\InheritanceDemo2.dll

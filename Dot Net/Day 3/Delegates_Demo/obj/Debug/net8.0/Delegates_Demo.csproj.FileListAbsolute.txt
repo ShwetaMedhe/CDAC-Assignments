@@ -1,0 +1,15 @@
+C:\Users\IET\Desktop\Dot Net\CSharpDemos\Delegates_Demo\bin\Debug\net8.0\Delegates_Demo.exe
+C:\Users\IET\Desktop\Dot Net\CSharpDemos\Delegates_Demo\bin\Debug\net8.0\Delegates_Demo.deps.json
+C:\Users\IET\Desktop\Dot Net\CSharpDemos\Delegates_Demo\bin\Debug\net8.0\Delegates_Demo.runtimeconfig.json
+C:\Users\IET\Desktop\Dot Net\CSharpDemos\Delegates_Demo\bin\Debug\net8.0\Delegates_Demo.dll
+C:\Users\IET\Desktop\Dot Net\CSharpDemos\Delegates_Demo\bin\Debug\net8.0\Delegates_Demo.pdb
+C:\Users\IET\Desktop\Dot Net\CSharpDemos\Delegates_Demo\obj\Debug\net8.0\Delegates_Demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IET\Desktop\Dot Net\CSharpDemos\Delegates_Demo\obj\Debug\net8.0\Delegates_Demo.AssemblyInfoInputs.cache
+C:\Users\IET\Desktop\Dot Net\CSharpDemos\Delegates_Demo\obj\Debug\net8.0\Delegates_Demo.AssemblyInfo.cs
+C:\Users\IET\Desktop\Dot Net\CSharpDemos\Delegates_Demo\obj\Debug\net8.0\Delegates_Demo.csproj.CoreCompileInputs.cache
+C:\Users\IET\Desktop\Dot Net\CSharpDemos\Delegates_Demo\obj\Debug\net8.0\Delegates_Demo.sourcelink.json
+C:\Users\IET\Desktop\Dot Net\CSharpDemos\Delegates_Demo\obj\Debug\net8.0\Delegates_Demo.dll
+C:\Users\IET\Desktop\Dot Net\CSharpDemos\Delegates_Demo\obj\Debug\net8.0\refint\Delegates_Demo.dll
+C:\Users\IET\Desktop\Dot Net\CSharpDemos\Delegates_Demo\obj\Debug\net8.0\Delegates_Demo.pdb
+C:\Users\IET\Desktop\Dot Net\CSharpDemos\Delegates_Demo\obj\Debug\net8.0\Delegates_Demo.genruntimeconfig.cache
+C:\Users\IET\Desktop\Dot Net\CSharpDemos\Delegates_Demo\obj\Debug\net8.0\ref\Delegates_Demo.dll

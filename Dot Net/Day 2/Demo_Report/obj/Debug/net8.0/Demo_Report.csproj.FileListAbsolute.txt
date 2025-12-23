@@ -1,0 +1,5 @@
+C:\Users\IET\Desktop\Dot Net\CSharpDemos\Demo_Report\obj\Debug\net8.0\Demo_Report.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IET\Desktop\Dot Net\CSharpDemos\Demo_Report\obj\Debug\net8.0\Demo_Report.AssemblyInfoInputs.cache
+C:\Users\IET\Desktop\Dot Net\CSharpDemos\Demo_Report\obj\Debug\net8.0\Demo_Report.AssemblyInfo.cs
+C:\Users\IET\Desktop\Dot Net\CSharpDemos\Demo_Report\obj\Debug\net8.0\Demo_Report.csproj.CoreCompileInputs.cache
+C:\Users\IET\Desktop\Dot Net\CSharpDemos\Demo_Report\obj\Debug\net8.0\Demo_Report.sourcelink.json
