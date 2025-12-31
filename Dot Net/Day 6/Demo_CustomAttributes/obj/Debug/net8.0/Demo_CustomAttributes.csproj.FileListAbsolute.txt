@@ -1,0 +1,5 @@
+C:\Users\IET\Desktop\Dot Net\CSharpDemos\Demo_CustomAttributes\obj\Debug\net8.0\Demo_CustomAttributes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IET\Desktop\Dot Net\CSharpDemos\Demo_CustomAttributes\obj\Debug\net8.0\Demo_CustomAttributes.AssemblyInfoInputs.cache
+C:\Users\IET\Desktop\Dot Net\CSharpDemos\Demo_CustomAttributes\obj\Debug\net8.0\Demo_CustomAttributes.AssemblyInfo.cs
+C:\Users\IET\Desktop\Dot Net\CSharpDemos\Demo_CustomAttributes\obj\Debug\net8.0\Demo_CustomAttributes.csproj.CoreCompileInputs.cache
+C:\Users\IET\Desktop\Dot Net\CSharpDemos\Demo_CustomAttributes\obj\Debug\net8.0\Demo_CustomAttributes.sourcelink.json

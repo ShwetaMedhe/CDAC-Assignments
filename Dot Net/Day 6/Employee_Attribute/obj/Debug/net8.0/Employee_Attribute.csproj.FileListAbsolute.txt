@@ -1,0 +1,12 @@
+C:\Users\IET\Desktop\Dot Net\CSharpDemos\Employee_Attribute\bin\Debug\net8.0\Employee_Attribute.deps.json
+C:\Users\IET\Desktop\Dot Net\CSharpDemos\Employee_Attribute\bin\Debug\net8.0\Employee_Attribute.dll
+C:\Users\IET\Desktop\Dot Net\CSharpDemos\Employee_Attribute\bin\Debug\net8.0\Employee_Attribute.pdb
+C:\Users\IET\Desktop\Dot Net\CSharpDemos\Employee_Attribute\obj\Debug\net8.0\Employee_Attribute.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IET\Desktop\Dot Net\CSharpDemos\Employee_Attribute\obj\Debug\net8.0\Employee_Attribute.AssemblyInfoInputs.cache
+C:\Users\IET\Desktop\Dot Net\CSharpDemos\Employee_Attribute\obj\Debug\net8.0\Employee_Attribute.AssemblyInfo.cs
+C:\Users\IET\Desktop\Dot Net\CSharpDemos\Employee_Attribute\obj\Debug\net8.0\Employee_Attribute.csproj.CoreCompileInputs.cache
+C:\Users\IET\Desktop\Dot Net\CSharpDemos\Employee_Attribute\obj\Debug\net8.0\Employee_Attribute.sourcelink.json
+C:\Users\IET\Desktop\Dot Net\CSharpDemos\Employee_Attribute\obj\Debug\net8.0\Employee_Attribute.dll
+C:\Users\IET\Desktop\Dot Net\CSharpDemos\Employee_Attribute\obj\Debug\net8.0\refint\Employee_Attribute.dll
+C:\Users\IET\Desktop\Dot Net\CSharpDemos\Employee_Attribute\obj\Debug\net8.0\Employee_Attribute.pdb
+C:\Users\IET\Desktop\Dot Net\CSharpDemos\Employee_Attribute\obj\Debug\net8.0\ref\Employee_Attribute.dll

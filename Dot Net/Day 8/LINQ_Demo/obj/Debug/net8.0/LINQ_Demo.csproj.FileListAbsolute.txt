@@ -1,0 +1,15 @@
+C:\Users\IET\Desktop\Dot Net\CSharpDemos\LINQ_Demo\bin\Debug\net8.0\LINQ_Demo.exe
+C:\Users\IET\Desktop\Dot Net\CSharpDemos\LINQ_Demo\bin\Debug\net8.0\LINQ_Demo.deps.json
+C:\Users\IET\Desktop\Dot Net\CSharpDemos\LINQ_Demo\bin\Debug\net8.0\LINQ_Demo.runtimeconfig.json
+C:\Users\IET\Desktop\Dot Net\CSharpDemos\LINQ_Demo\bin\Debug\net8.0\LINQ_Demo.dll
+C:\Users\IET\Desktop\Dot Net\CSharpDemos\LINQ_Demo\bin\Debug\net8.0\LINQ_Demo.pdb
+C:\Users\IET\Desktop\Dot Net\CSharpDemos\LINQ_Demo\obj\Debug\net8.0\LINQ_Demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IET\Desktop\Dot Net\CSharpDemos\LINQ_Demo\obj\Debug\net8.0\LINQ_Demo.AssemblyInfoInputs.cache
+C:\Users\IET\Desktop\Dot Net\CSharpDemos\LINQ_Demo\obj\Debug\net8.0\LINQ_Demo.AssemblyInfo.cs
+C:\Users\IET\Desktop\Dot Net\CSharpDemos\LINQ_Demo\obj\Debug\net8.0\LINQ_Demo.csproj.CoreCompileInputs.cache
+C:\Users\IET\Desktop\Dot Net\CSharpDemos\LINQ_Demo\obj\Debug\net8.0\LINQ_Demo.sourcelink.json
+C:\Users\IET\Desktop\Dot Net\CSharpDemos\LINQ_Demo\obj\Debug\net8.0\LINQ_Demo.dll
+C:\Users\IET\Desktop\Dot Net\CSharpDemos\LINQ_Demo\obj\Debug\net8.0\refint\LINQ_Demo.dll
+C:\Users\IET\Desktop\Dot Net\CSharpDemos\LINQ_Demo\obj\Debug\net8.0\LINQ_Demo.pdb
+C:\Users\IET\Desktop\Dot Net\CSharpDemos\LINQ_Demo\obj\Debug\net8.0\LINQ_Demo.genruntimeconfig.cache
+C:\Users\IET\Desktop\Dot Net\CSharpDemos\LINQ_Demo\obj\Debug\net8.0\ref\LINQ_Demo.dll

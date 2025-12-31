@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Demo_Emp_Lib/1.0.0": {
+        "runtime": {
+          "Demo_Emp_Lib.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Demo_Emp_Lib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
