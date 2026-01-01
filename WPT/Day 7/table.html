@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Table</title>
+  <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+</head>
+<body>
+
+  Number: <input id="num"><br>
+  From: <input id="from"><br>
+  To: <input id="to"><br>
+  <button id="show">Show</button>
+
+  <div id="result"></div>
+
+  <script>
+    $('#show').click(function() {
+      var num = $('#num').val();
+      var from = $('#from').val();
+      var to = $('#to').val();
+
+      var text = "<table border='1'>";
+      for (var i = from; i <= to; i++) {
+        text += "<tr><td>" + num + " * " + i + "</td><td>" + (num * i) + "</td></tr>";
+      }
+      text += "</table>";
+
+      $('#result').html(text);
+    });
+  </script>
+
+</body>
+</html>

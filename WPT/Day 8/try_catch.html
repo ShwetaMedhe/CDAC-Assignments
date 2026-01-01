@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Try Catch Example</title>
+</head>
+<body>
+
+    <button onclick="runcode()">click</button>
+    <p id="p1"></p>
+
+    <script>
+        function runcode(){
+            let msg = document.getElementById("p1");
+            try{
+             let result = x+6;
+             msg.textContent = "Result: " + result;
+            }
+            catch(error){
+                msg.textContent = "Caught Error: " + error.message;;
+
+            }
+            finally{
+                 console.log("This always runs");
+            }
+        }
+    </script>
+</body>
+</html>

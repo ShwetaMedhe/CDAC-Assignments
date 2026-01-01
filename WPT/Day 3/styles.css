@@ -1,0 +1,31 @@
+
+input, p, select {
+    color: #333; 
+    background-color: #f0f0f0;
+    font-family: sans-serif;
+    border: 1px solid #ccc; 
+    padding: 5px;
+    margin: 5px 0;
+}
+
+
+.moderate {
+    color: #4CAF50; 
+    background-color: #e8f5e9;
+    font-style: italic;
+    border: 2px dashed #81c784; 
+}
+
+.gaudy {
+    color: #FF0000; 
+    background-color: #FFFF99; 
+    font-style: oblique;
+    border: 5px double #FFD700; 
+}
+
+#id1 {
+    color: #fff;
+    background-color: #007bff; 
+    font-family:'Times New Roman', Times, serif;
+    border: 3px ridge #0056b3; 
+}

@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+   
+    <title>FadeIn Effect</title>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js">
+    </script>
+
+    <script>
+        $(document).ready(function(){
+            $("button").click(function(){
+                $("#div1").fadeIn();
+                $("#div2").fadeIn(3000);
+                $("#div3").fadeIn(5000);
+
+            });
+        });
+    </script>
+</head>
+<body>
+    <p>Using FadeIn method.</p>
+    <button >click to fad in</button><br><br>
+
+    <div id="div1" style="background-color: red; height:80px; width:80px; display:none;"></div><br>
+    <div id="div2" style="background-color: blue; height:80px; width:80px; display:none;"></div><br>
+    <div id="div3" style="background-color: rgb(200, 255, 0); height:80px; width:80px; display:none;"></div>
+
+     
+</body>
+</html>

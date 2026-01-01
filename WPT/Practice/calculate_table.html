@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Calculate Table</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #f2f2f2;
+      text-align: center;
+      padding-top: 40px;
+    }
+
+    input {
+      padding: 10px;
+      width: 200px;
+      margin-bottom: 10px;
+      border-radius: 4px;
+      border: 1px solid #ccc;
+    }
+
+    button {
+      padding: 10px 20px;
+      background-color: #28a745;
+      color: white;
+      border: none;
+      border-radius: 4px;
+      cursor: pointer;
+    }
+
+    button:hover {
+      background-color: #218838;
+    }
+
+    table {
+      margin: 20px auto;
+      border-collapse: collapse;
+      width: 300px;
+      background-color: #fff;
+    }
+
+    th, td {
+      border: 1px solid #ccc;
+      padding: 10px;
+    }
+
+    th {
+      background-color: #28a745;
+      color: white;
+    }
+  </style>
+</head>
+<body>
+
+  <h2>Enter a Number to Display Its Table</h2>
+  <input type="text" id="numberInput" placeholder="Enter a number">
+  <br>
+  <button onclick="generateTable()">Generate Table</button>
+
+  <div id="tableOutput"></div>
+
+  <script>
+    function generateTable() {
+      const input = document.getElementById("numberInput").value.trim();
+      const outputDiv = document.getElementById("tableOutput");
+      outputDiv.innerHTML = "";
+
+      if (!input) {
+        alert("Please enter a value.");
+        return;
+      }
+
+      const num = Number(input);
+      if (isNaN(num)) {
+        alert("Please enter a valid number.");
+        return;
+      }
+
+      let tableHTML = "<table><tr><th>Expression</th><th>Result</th></tr>";
+      for (let i = 1; i <= 10; i++) {
+        tableHTML += `<tr><td>${num} × ${i}</td><td>${num * i}</td></tr>`;
+      }
+      tableHTML += "</table>";
+      outputDiv.innerHTML = tableHTML;
+    }
+  </script>
+
+</body>
+</html>

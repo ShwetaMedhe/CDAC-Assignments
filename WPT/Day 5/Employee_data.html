@@ -1,0 +1,160 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Employee Data</title>
+    <style>
+        h1,
+        h2 {
+            text-align: center;
+        }
+
+        #container {
+            text-align: center;
+            margin-bottom: 20px;
+        }
+
+        label {
+            display: block;
+            margin-top: 10px;
+        }
+
+        input
+        {
+            width: 300px;
+            padding: 8px;
+            margin-top: 5px;
+            border: 1px solid #ccc;
+            border-radius: 4px;
+        }
+
+        button {
+            margin: 10px;
+            padding: 8px 16px;
+            background-color: #874caf;
+            color: #fff;
+            border: none;
+            border-radius: 4px;
+            cursor: pointer;
+        }
+
+        button:hover {
+            background-color: #14d4bb;
+        }
+
+        table {
+            border-collapse: collapse;
+            margin-bottom: 20px;
+            width: 100%;
+        }
+
+        th,
+        td {
+            border: 1px solid #ddd;
+            padding: 8px;
+            text-align: left;
+        }
+
+        th {
+            background-color: #4CAF50;
+            color: #fff;
+        }
+    </style>
+</head>
+<body>
+    <h2>Employee Data</h2>
+    <div id="container">
+        <label for = "FirstName">FirstName:</label>
+            <input type="text" id="FirstName" placeholder="Enter FirstName">
+
+            <label for = "LastName">Last Name:</label>
+                <input type="text" id="LastName" placeholder="Enter LastName">
+
+            <label for="Email">Email:</label>
+                <input type="email" id="Email" placeholder="Enter Email">
+
+                <label for="DateOfBirth">DOB:</label>
+                    <input type="text" id="DateOfBirth" placeholder="Enter Date Of Birth"><br>
+                <button onclick="addData()">Add</button>
+    </div>
+ <table id="outputtable">
+    <tr>
+        <th>FirstName</th>
+        <th>LastName</th>
+        <th>Email</th>
+        <th>Date Of Birth</th>
+        <th>action</th>
+    </tr> 
+ </table>
+
+ <script>
+    function addData(){
+        let firstName = document.getElementById("FirstName").value;
+        let lastName = document.getElementById("LastName").value;
+        let email=document.getElementById("Email").value;
+        let DateOfBirth=document.getElementById("DateOfBirth").value;
+
+        let table=document.getElementById("outputtable");
+        let newRow = table.insertRow(table.rows.length);
+
+        newRow.insertCell(0).innerHTML=firstName;
+        newRow.insertCell(1).innerHTML=lastName;
+        newRow.insertCell(2).innerHTML=email;
+        newRow.insertCell(3).innerHTML=DateOfBirth;
+        newRow.insertCell(4).innerHTML= 
+        '<button onclick="editData(this)">Edit</button>' + '<button onclick="deleteData(this)">Delete</button>';
+         clearInputs();
+
+    }
+    function clearInputs(){
+        document.getElementById("FirstName").value=" ";
+        document.getElementById("LastName").value="";
+        document.getElementById("Email").value="";
+        document.getElementById("DateOfBirth").value="";
+
+    }
+    function deleteData(button){
+       
+            let row = button.parentNode.parentNode;
+
+            row.parentNode.removeChild(row);   
+         }
+        
+    function editData(button) {
+
+           
+            let row = button.parentNode.parentNode;
+
+            let firstNameCell = row.cells[0];
+            let lastNameCell = row.cells[1];
+            let emailCell = row.cells[2];
+            let DateOfBirthCell= row.cells[3];
+
+            let firstName =
+                prompt("Enter the updated name:",
+                    firstNameCell.innerHTML);
+            let lastName = 
+                prompt("Enter the updated email:",
+                    lastNameCell.innerHTML);
+            let email =
+                prompt("Enter the updated mobile details:",
+                    emailCell.innerHTML
+                );
+            let DateOfBirth =
+                prompt("Enter the updated address:",
+                    DateOfBirthCell.innerHTML
+                );
+
+    
+            firstNameCell.innerHTML = firstName;
+            lastNameCell.innerHTML = lastName;
+            emailCell.innerHTML = email;
+            DateOfBirthCell.innerHTML = DateOfBirth;
+        }
+
+ </script>
+
+    
+</body>
+</html>

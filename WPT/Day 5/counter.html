@@ -1,0 +1,27 @@
+<html>
+<head>
+</head>
+<body>
+
+    <p id="p1">Counter is 0</p>
+    <button type="button" onclick="myFunction()" id="myButton">Count!</button>
+
+    <script>
+        let clickCount = 0;
+        const myButton = document.getElementById("myButton");
+        const p1 = document.getElementById("p1");
+
+        function myFunction() {
+            clickCount++;
+            p1.innerHTML = "Counter is " + clickCount;
+
+            if (clickCount >= 10) {
+                myButton.style.pointerEvents = "none";
+                myButton.style.opacity = "0.6";
+                myButton.innerHTML = "Button Disabled";
+            }
+        }
+    </script>
+
+</body>
+</html>

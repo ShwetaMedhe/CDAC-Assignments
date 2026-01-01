@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    
+    <title>Fade in - Fade out</title>
+</head>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"> </script>
+<style>
+    #div1{
+        background-color:blueviolet;  
+        height: 200px; 
+        width: 200px; 
+       
+        font-weight: bold; 
+        font-size: x-large; 
+        display:none;
+       
+        text-align: center;
+    }
+    
+
+</style>
+<script>
+    $(document).ready(function(){
+        $("#div1").fadeIn(2000);
+
+        $("#b1").click(function(){
+        $("#div1").fadeOut(2000);
+        });
+    });
+    
+       
+    
+</script>
+<body>
+    <p>This is Fade in - Fade out</p>
+   
+    <div id="div1" >
+        Limited offer!!
+        50% off on first purchase
+    </div>
+    <br><br>
+     <button id="b1">Disappear</button><br><br>
+    <br><br>
+    
+    
+</body>
+</html>

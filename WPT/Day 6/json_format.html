@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>JSON</title>
+  <style>
+    table, th, td {
+      border: 1px solid black;
+      border-collapse: collapse;
+      padding: 8px;
+    }
+  </style>
+</head>
+<body>
+
+<h2>Enter Your Details</h2>
+<form id="userForm">
+  First Name: <input type="text" id="firstName"><br><br>
+  Last Name: <input type="text" id="lastName"><br><br>
+  Age: <input type="number" id="age"><br><br>
+  <button type="button" onclick="submitData()">Submit</button>
+</form>
+
+<h3>JSON Output:</h3>
+<pre id="jsonOutput"></pre>
+
+<h3>Table Output:</h3>
+<table id="dataTable">
+  <tr>
+    <th>First Name</th>
+    <th>Last Name</th>
+    <th>Age</th>
+  </tr>
+</table>
+
+<script>
+function submitData() {
+  
+  const firstName = document.getElementById("firstName").value;
+  const lastName = document.getElementById("lastName").value;
+  const age = document.getElementById("age").value;
+
+  const userData = {
+    firstName: firstName,
+    lastName: lastName,
+    age: age
+  };
+
+  // Convert to JSON
+  const jsonString = JSON.stringify(userData, null, 2);
+  document.getElementById("jsonOutput").textContent = jsonString;
+
+  // Display in table
+  const table = document.getElementById("dataTable");
+  const newRow = table.insertRow();
+  newRow.insertCell(0).textContent = userData.firstName;
+  newRow.insertCell(1).textContent = userData.lastName;
+  newRow.insertCell(2).textContent = userData.age;
+
+  document.getElementById("userForm").reset();
+}
+</script>
+
+</body>
+</html>

@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Callback Functions Demo</title>
+</head>
+<body>
+
+<h2 id="demo">Watch me change!</h2>
+<button onclick="startInterval()">Start Interval</button>
+<button onclick="stopInterval()">Stop Interval</button>
+<button onclick="delayedMessage()">Show Delayed Message</button>
+
+<script>
+let intervalId;
+
+function startInterval() {
+  intervalId = setInterval(() => {
+    document.getElementById("demo").innerText = "Updated at " + new Date().toLocaleTimeString();
+  }, 1000);
+}
+
+function stopInterval() {
+  clearInterval(intervalId);
+}
+
+function delayedMessage() {
+  setTimeout(() => {
+    alert("This message appeared after 3 seconds!");
+  }, 3000);
+}
+</script>
+
+</body>
+</html>

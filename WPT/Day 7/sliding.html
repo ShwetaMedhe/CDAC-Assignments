@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    
+    <title>Sliding Effectt</title>
+</head>
+ <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js">
+    </script>
+
+    <script>
+        $(function(){
+            $("#div1").html("<h1>Data</h1> ");
+            $("#b1").click(()=>{
+                $("#div1").slideUp();
+        })
+         $("#b2").click(() => {
+                $("#div1").slideDown(1000);
+            })
+        $("#b3").click(() => {
+                $("#div1").slideToggle(5000);
+            })
+        $("#b4").click(() => {
+                $("#div1").stop(1000);
+            })
+
+        })
+    </script>
+
+<body>
+    <div id="div1" style="background-color: chocolate; height: 100px; width: 100px;">
+        
+    </div>
+    <button id ="b1">slide up</button>
+    <button id ="b2">slide down</button>
+    <button id ="b3">slide toggle</button>
+    <button id ="b4">stop</button>
+
+</body>
+</html>

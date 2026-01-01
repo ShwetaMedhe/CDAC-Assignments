@@ -1,0 +1,10 @@
+let a=10;
+let b=20;
+let temp;
+console.log(`before swap a= ${a}`);
+console.log(`before swapping b=${b}`);
+temp=a;
+a=b;
+b=temp;
+console.log(`after swap a= ${a}`);
+console.log(`After swapping b=${b}`);

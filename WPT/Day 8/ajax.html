@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Load Data Example</title>
+    <script>
+        function showData() {
+            let request = new XMLHttpRequest();
+            request.open("GET", "https://fake-json-api.mock.beeceptor.com/users");
+            request.send();
+            request.onload = function() {
+                if (this.status === 200) {
+                    console.log(this.responseText);
+                    document.getElementById("output").textContent = this.responseText;
+                } else {
+                    console.error("Failed to load");
+                }
+            };
+        }
+    </script>
+</head>
+<body>
+    <h1>Data Loader</h1>
+    <button onclick="showData()">Load Data</button>
+    <pre id="output"></pre>
+</body>
+</html>

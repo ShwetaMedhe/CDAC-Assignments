@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>User Info with Username</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #f4f4f4;
+      margin: 0;
+      padding: 0;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: flex-start;
+      min-height: 100vh;
+    }
+
+    h2, h3 {
+      color: #333;
+      margin-top: 20px;
+    }
+
+    form {
+      background-color: #fff;
+      padding: 20px;
+      border: 1px solid #ccc;
+      width: 300px;
+      margin: 20px 0;
+      box-shadow: 2px 2px 5px rgba(0,0,0,0.1);
+      border-radius: 8px;
+    }
+
+    input[type="text"],
+    input[type="number"] {
+      width: 100%;
+      padding: 8px;
+      margin: 5px 0 15px 0;
+      border: 1px solid #ccc;
+      border-radius: 4px;
+    }
+
+    button {
+      padding: 10px 15px;
+      background-color: #007BFF;
+      color: white;
+      border: none;
+      border-radius: 4px;
+      cursor: pointer;
+      width: 100%;
+    }
+
+    button:hover {
+      background-color: #0056b3;
+    }
+
+    table {
+      width: 90%;
+      max-width: 600px;
+      background-color: #fff;
+      border-collapse: collapse;
+      box-shadow: 2px 2px 5px rgba(0,0,0,0.1);
+      margin-bottom: 30px;
+    }
+
+    th {
+      background-color: #007BFF;
+      color: white;
+    }
+
+    th, td {
+      border: 1px solid #ccc;
+      padding: 10px;
+      text-align: left;
+    }
+
+    pre {
+      background-color: #eee;
+      padding: 10px;
+      border-radius: 4px;
+      overflow-x: auto;
+      width: 90%;
+      max-width: 600px;
+      margin-bottom: 30px;
+    }
+  </style>
+</head>
+<body>
+
+<h2>Enter Your Details</h2>
+<form id="userForm">
+  First Name: <input type="text" id="firstName" required><br>
+  Last Name: <input type="text" id="lastName" required><br>
+  Age: <input type="number" id="age" required><br>
+  <button type="button" onclick="submitData()">Submit</button>
+</form>
+
+<h3>JSON Output:</h3>
+<pre id="jsonOutput"></pre>
+
+<h3>Table Output:</h3>
+<table id="dataTable">
+  <tr>
+    <th>First Name</th>
+    <th>Last Name</th>
+    <th>Age</th>
+    <th>Username</th>
+  </tr>
+</table>
+
+<script>
+function submitData() {
+  const firstName = document.getElementById("firstName").value.trim();
+  const lastName = document.getElementById("lastName").value.trim();
+  const age = document.getElementById("age").value.trim();
+
+  if (!firstName || !lastName || !age) {
+    alert("Please fill in all fields.");
+    return;
+  }
+
+  const firstPart = firstName.substring(0, 2).toLowerCase();
+  const lastPart = lastName.slice(-2).toLowerCase();
+  const username = firstPart + age + lastPart;
+
+  const userData = {
+    firstName: firstName,
+    lastName: lastName,
+    age: age,
+    username: username
+  };
+
+  const jsonString = JSON.stringify(userData, null, 2);
+  document.getElementById("jsonOutput").textContent = jsonString;
+
+  const table = document.getElementById("dataTable");
+  const newRow = table.insertRow();
+  newRow.insertCell(0).textContent = userData.firstName;
+  newRow.insertCell(1).textContent = userData.lastName;
+  newRow.insertCell(2).textContent = userData.age;
+  newRow.insertCell(3).textContent = userData.username;
+
+  document.getElementById("userForm").reset();
+}
+</script>
+
+</body>
+</html>

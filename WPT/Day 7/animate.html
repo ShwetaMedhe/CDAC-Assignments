@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Simple Quote Scroller</title>
+  <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+  <style>
+    #container {
+      position: relative;
+      width: 300px;
+      height: 60px;
+      overflow: hidden;
+      border: 1px solid #aaa;
+      margin-bottom: 10px;
+    }
+
+    #quote {
+      position: absolute;
+      left: 0;
+      top: 20px;
+      font-size: 18px;
+      color: darkblue;
+      white-space: nowrap;
+    }
+  </style>
+</head>
+<body>
+
+<div id="container">
+  <div id="quote">"Keep going. Everything you need will come to you."</div>
+</div>
+
+<button id="start">Start Scroll</button>
+
+<script>
+  $('#start').click(function () {
+    let count = 0;
+    let max = 4;
+    let quote = $('#quote');
+    let containerWidth = $('#container').width();
+    let quoteWidth = quote.width();
+
+    function scrollRight() {
+      quote.animate({ left: containerWidth - quoteWidth }, 1000, function () {
+        quote.animate({ left: 0 }, 1000, function () {
+          count++;
+          if (count < max) {
+            scrollRight();
+          } else {
+            scrollLeft();
+          }
+        });
+      });
+    }
+
+    function scrollLeft() {
+      quote.animate({ left: containerWidth - quoteWidth }, 1000);
+    }
+
+    quote.css('left', '0'); // reset position
+    scrollRight();
+  });
+</script>
+
+</body>
+</html>

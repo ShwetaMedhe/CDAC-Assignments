@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <style>
+    #box1, #box2 {
+      width: 50px;
+      height: 50px;
+      position: absolute;
+      top: 0;
+    }
+    #box1 {
+      left: 0;
+      background-color: red;
+    }
+    #box2 {
+      right: 0;
+      background-color: blue;
+    }
+  </style>
+</head>
+<body>
+
+<div id="box1"></div>
+<div id="box2"></div>
+
+<script>
+let pos = 0;
+let move;
+
+function animateBoxes() {
+  move = setInterval(() => {
+    pos += 5;
+    document.getElementById("box1").style.top = pos + "px";
+    document.getElementById("box2").style.top = pos + "px";
+    if (pos >= 500) clearInterval(move);
+  }, 100);
+}
+
+setTimeout(animateBoxes, 1000); 
+</script>
+
+</body>
+</html>
