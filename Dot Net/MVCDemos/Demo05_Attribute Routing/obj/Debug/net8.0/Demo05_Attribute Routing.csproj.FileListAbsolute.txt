@@ -1,0 +1,31 @@
+C:\Users\IET\Desktop\Dot Net\MVCDemos\Demo05_Attribute Routing\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\IET\Desktop\Dot Net\MVCDemos\Demo05_Attribute Routing\bin\Debug\net8.0\appsettings.json
+C:\Users\IET\Desktop\Dot Net\MVCDemos\Demo05_Attribute Routing\bin\Debug\net8.0\Demo05_Attribute Routing.staticwebassets.endpoints.json
+C:\Users\IET\Desktop\Dot Net\MVCDemos\Demo05_Attribute Routing\bin\Debug\net8.0\Demo05_Attribute Routing.exe
+C:\Users\IET\Desktop\Dot Net\MVCDemos\Demo05_Attribute Routing\bin\Debug\net8.0\Demo05_Attribute Routing.deps.json
+C:\Users\IET\Desktop\Dot Net\MVCDemos\Demo05_Attribute Routing\bin\Debug\net8.0\Demo05_Attribute Routing.runtimeconfig.json
+C:\Users\IET\Desktop\Dot Net\MVCDemos\Demo05_Attribute Routing\bin\Debug\net8.0\Demo05_Attribute Routing.dll
+C:\Users\IET\Desktop\Dot Net\MVCDemos\Demo05_Attribute Routing\bin\Debug\net8.0\Demo05_Attribute Routing.pdb
+C:\Users\IET\Desktop\Dot Net\MVCDemos\Demo05_Attribute Routing\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\IET\Desktop\Dot Net\MVCDemos\Demo05_Attribute Routing\obj\Debug\net8.0\Demo05_Attribute Routing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IET\Desktop\Dot Net\MVCDemos\Demo05_Attribute Routing\obj\Debug\net8.0\Demo05_Attribute Routing.AssemblyInfoInputs.cache
+C:\Users\IET\Desktop\Dot Net\MVCDemos\Demo05_Attribute Routing\obj\Debug\net8.0\Demo05_Attribute Routing.AssemblyInfo.cs
+C:\Users\IET\Desktop\Dot Net\MVCDemos\Demo05_Attribute Routing\obj\Debug\net8.0\Demo05_Attribute Routing.csproj.CoreCompileInputs.cache
+C:\Users\IET\Desktop\Dot Net\MVCDemos\Demo05_Attribute Routing\obj\Debug\net8.0\Demo05_Attribute Routing.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\IET\Desktop\Dot Net\MVCDemos\Demo05_Attribute Routing\obj\Debug\net8.0\Demo05_Attribute Routing.sourcelink.json
+C:\Users\IET\Desktop\Dot Net\MVCDemos\Demo05_Attribute Routing\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\IET\Desktop\Dot Net\MVCDemos\Demo05_Attribute Routing\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\IET\Desktop\Dot Net\MVCDemos\Demo05_Attribute Routing\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\IET\Desktop\Dot Net\MVCDemos\Demo05_Attribute Routing\obj\Debug\net8.0\scopedcss\bundle\Demo05_Attribute Routing.styles.css
+C:\Users\IET\Desktop\Dot Net\MVCDemos\Demo05_Attribute Routing\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\IET\Desktop\Dot Net\MVCDemos\Demo05_Attribute Routing\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\IET\Desktop\Dot Net\MVCDemos\Demo05_Attribute Routing\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\IET\Desktop\Dot Net\MVCDemos\Demo05_Attribute Routing\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\IET\Desktop\Dot Net\MVCDemos\Demo05_Attribute Routing\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\IET\Desktop\Dot Net\MVCDemos\Demo05_Attribute Routing\obj\Debug\net8.0\Demo05_Attribute Routing.dll
+C:\Users\IET\Desktop\Dot Net\MVCDemos\Demo05_Attribute Routing\obj\Debug\net8.0\refint\Demo05_Attribute Routing.dll
+C:\Users\IET\Desktop\Dot Net\MVCDemos\Demo05_Attribute Routing\obj\Debug\net8.0\Demo05_Attribute Routing.pdb
+C:\Users\IET\Desktop\Dot Net\MVCDemos\Demo05_Attribute Routing\obj\Debug\net8.0\Demo05_Attribute Routing.genruntimeconfig.cache
+C:\Users\IET\Desktop\Dot Net\MVCDemos\Demo05_Attribute Routing\obj\Debug\net8.0\ref\Demo05_Attribute Routing.dll
+C:\Users\IET\Desktop\Dot Net\MVCDemos\Demo05_Attribute Routing\obj\Debug\net8.0\Demo05_Attribute Routing.RazorAssemblyInfo.cache
+C:\Users\IET\Desktop\Dot Net\MVCDemos\Demo05_Attribute Routing\obj\Debug\net8.0\Demo05_Attribute Routing.RazorAssemblyInfo.cs

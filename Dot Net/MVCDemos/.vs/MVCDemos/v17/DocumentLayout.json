@@ -1,0 +1,160 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\IET\\Desktop\\Dot Net\\MVCDemos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{417F19C2-9590-4718-9A18-1ADB91A4A669}|Demo11__EF_Filters_Sessions_WebAPI\\Demo11__EF_Filters_Sessions_WebAPI.csproj|c:\\users\\iet\\desktop\\dot net\\mvcdemos\\demo11__ef_filters_sessions_webapi\\filters\\ietexexceptionfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{417F19C2-9590-4718-9A18-1ADB91A4A669}|Demo11__EF_Filters_Sessions_WebAPI\\Demo11__EF_Filters_Sessions_WebAPI.csproj|solutionrelative:demo11__ef_filters_sessions_webapi\\filters\\ietexexceptionfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{417F19C2-9590-4718-9A18-1ADB91A4A669}|Demo11__EF_Filters_Sessions_WebAPI\\Demo11__EF_Filters_Sessions_WebAPI.csproj|c:\\users\\iet\\desktop\\dot net\\mvcdemos\\demo11__ef_filters_sessions_webapi\\filters\\authfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{417F19C2-9590-4718-9A18-1ADB91A4A669}|Demo11__EF_Filters_Sessions_WebAPI\\Demo11__EF_Filters_Sessions_WebAPI.csproj|solutionrelative:demo11__ef_filters_sessions_webapi\\filters\\authfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{417F19C2-9590-4718-9A18-1ADB91A4A669}|Demo11__EF_Filters_Sessions_WebAPI\\Demo11__EF_Filters_Sessions_WebAPI.csproj|c:\\users\\iet\\desktop\\dot net\\mvcdemos\\demo11__ef_filters_sessions_webapi\\filters\\ietfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{417F19C2-9590-4718-9A18-1ADB91A4A669}|Demo11__EF_Filters_Sessions_WebAPI\\Demo11__EF_Filters_Sessions_WebAPI.csproj|solutionrelative:demo11__ef_filters_sessions_webapi\\filters\\ietfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{417F19C2-9590-4718-9A18-1ADB91A4A669}|Demo11__EF_Filters_Sessions_WebAPI\\Demo11__EF_Filters_Sessions_WebAPI.csproj|c:\\users\\iet\\desktop\\dot net\\mvcdemos\\demo11__ef_filters_sessions_webapi\\logger\\filelogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{417F19C2-9590-4718-9A18-1ADB91A4A669}|Demo11__EF_Filters_Sessions_WebAPI\\Demo11__EF_Filters_Sessions_WebAPI.csproj|solutionrelative:demo11__ef_filters_sessions_webapi\\logger\\filelogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{417F19C2-9590-4718-9A18-1ADB91A4A669}|Demo11__EF_Filters_Sessions_WebAPI\\Demo11__EF_Filters_Sessions_WebAPI.csproj|c:\\users\\iet\\desktop\\dot net\\mvcdemos\\demo11__ef_filters_sessions_webapi\\data\\log.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{417F19C2-9590-4718-9A18-1ADB91A4A669}|Demo11__EF_Filters_Sessions_WebAPI\\Demo11__EF_Filters_Sessions_WebAPI.csproj|solutionrelative:demo11__ef_filters_sessions_webapi\\data\\log.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{417F19C2-9590-4718-9A18-1ADB91A4A669}|Demo11__EF_Filters_Sessions_WebAPI\\Demo11__EF_Filters_Sessions_WebAPI.csproj|c:\\users\\iet\\desktop\\dot net\\mvcdemos\\demo11__ef_filters_sessions_webapi\\models\\ietdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{417F19C2-9590-4718-9A18-1ADB91A4A669}|Demo11__EF_Filters_Sessions_WebAPI\\Demo11__EF_Filters_Sessions_WebAPI.csproj|solutionrelative:demo11__ef_filters_sessions_webapi\\models\\ietdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{417F19C2-9590-4718-9A18-1ADB91A4A669}|Demo11__EF_Filters_Sessions_WebAPI\\Demo11__EF_Filters_Sessions_WebAPI.csproj|c:\\users\\iet\\desktop\\dot net\\mvcdemos\\demo11__ef_filters_sessions_webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{417F19C2-9590-4718-9A18-1ADB91A4A669}|Demo11__EF_Filters_Sessions_WebAPI\\Demo11__EF_Filters_Sessions_WebAPI.csproj|solutionrelative:demo11__ef_filters_sessions_webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{417F19C2-9590-4718-9A18-1ADB91A4A669}|Demo11__EF_Filters_Sessions_WebAPI\\Demo11__EF_Filters_Sessions_WebAPI.csproj|c:\\users\\iet\\desktop\\dot net\\mvcdemos\\demo11__ef_filters_sessions_webapi\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{417F19C2-9590-4718-9A18-1ADB91A4A669}|Demo11__EF_Filters_Sessions_WebAPI\\Demo11__EF_Filters_Sessions_WebAPI.csproj|solutionrelative:demo11__ef_filters_sessions_webapi\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IETExExceptionFilter.cs",
+              "DocumentMoniker": "C:\\Users\\IET\\Desktop\\Dot Net\\MVCDemos\\Demo11__EF_Filters_Sessions_WebAPI\\Filters\\IETExExceptionFilter.cs",
+              "RelativeDocumentMoniker": "Demo11__EF_Filters_Sessions_WebAPI\\Filters\\IETExExceptionFilter.cs",
+              "ToolTip": "C:\\Users\\IET\\Desktop\\Dot Net\\MVCDemos\\Demo11__EF_Filters_Sessions_WebAPI\\Filters\\IETExExceptionFilter.cs",
+              "RelativeToolTip": "Demo11__EF_Filters_Sessions_WebAPI\\Filters\\IETExExceptionFilter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-03T19:59:39.745Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuthFilter.cs",
+              "DocumentMoniker": "C:\\Users\\IET\\Desktop\\Dot Net\\MVCDemos\\Demo11__EF_Filters_Sessions_WebAPI\\Filters\\AuthFilter.cs",
+              "RelativeDocumentMoniker": "Demo11__EF_Filters_Sessions_WebAPI\\Filters\\AuthFilter.cs",
+              "ToolTip": "C:\\Users\\IET\\Desktop\\Dot Net\\MVCDemos\\Demo11__EF_Filters_Sessions_WebAPI\\Filters\\AuthFilter.cs",
+              "RelativeToolTip": "Demo11__EF_Filters_Sessions_WebAPI\\Filters\\AuthFilter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-03T19:59:37.236Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Log.txt",
+              "DocumentMoniker": "C:\\Users\\IET\\Desktop\\Dot Net\\MVCDemos\\Demo11__EF_Filters_Sessions_WebAPI\\Data\\Log.txt",
+              "RelativeDocumentMoniker": "Demo11__EF_Filters_Sessions_WebAPI\\Data\\Log.txt",
+              "ToolTip": "C:\\Users\\IET\\Desktop\\Dot Net\\MVCDemos\\Demo11__EF_Filters_Sessions_WebAPI\\Data\\Log.txt",
+              "RelativeToolTip": "Demo11__EF_Filters_Sessions_WebAPI\\Data\\Log.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2026-01-03T19:57:04.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\IET\\Desktop\\Dot Net\\MVCDemos\\Demo11__EF_Filters_Sessions_WebAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "Demo11__EF_Filters_Sessions_WebAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\IET\\Desktop\\Dot Net\\MVCDemos\\Demo11__EF_Filters_Sessions_WebAPI\\appsettings.json",
+              "RelativeToolTip": "Demo11__EF_Filters_Sessions_WebAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-01-03T19:54:21.717Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\IET\\Desktop\\Dot Net\\MVCDemos\\Demo11__EF_Filters_Sessions_WebAPI\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Demo11__EF_Filters_Sessions_WebAPI\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\IET\\Desktop\\Dot Net\\MVCDemos\\Demo11__EF_Filters_Sessions_WebAPI\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Demo11__EF_Filters_Sessions_WebAPI\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-03T19:54:10.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IETDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\IET\\Desktop\\Dot Net\\MVCDemos\\Demo11__EF_Filters_Sessions_WebAPI\\Models\\IETDbContext.cs",
+              "RelativeDocumentMoniker": "Demo11__EF_Filters_Sessions_WebAPI\\Models\\IETDbContext.cs",
+              "ToolTip": "C:\\Users\\IET\\Desktop\\Dot Net\\MVCDemos\\Demo11__EF_Filters_Sessions_WebAPI\\Models\\IETDbContext.cs",
+              "RelativeToolTip": "Demo11__EF_Filters_Sessions_WebAPI\\Models\\IETDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-03T19:54:05.046Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IETFilter.cs",
+              "DocumentMoniker": "C:\\Users\\IET\\Desktop\\Dot Net\\MVCDemos\\Demo11__EF_Filters_Sessions_WebAPI\\Filters\\IETFilter.cs",
+              "RelativeDocumentMoniker": "Demo11__EF_Filters_Sessions_WebAPI\\Filters\\IETFilter.cs",
+              "ToolTip": "C:\\Users\\IET\\Desktop\\Dot Net\\MVCDemos\\Demo11__EF_Filters_Sessions_WebAPI\\Filters\\IETFilter.cs",
+              "RelativeToolTip": "Demo11__EF_Filters_Sessions_WebAPI\\Filters\\IETFilter.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-03T19:52:56.032Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FileLogger.cs",
+              "DocumentMoniker": "C:\\Users\\IET\\Desktop\\Dot Net\\MVCDemos\\Demo11__EF_Filters_Sessions_WebAPI\\Logger\\FileLogger.cs",
+              "RelativeDocumentMoniker": "Demo11__EF_Filters_Sessions_WebAPI\\Logger\\FileLogger.cs",
+              "ToolTip": "C:\\Users\\IET\\Desktop\\Dot Net\\MVCDemos\\Demo11__EF_Filters_Sessions_WebAPI\\Logger\\FileLogger.cs",
+              "RelativeToolTip": "Demo11__EF_Filters_Sessions_WebAPI\\Logger\\FileLogger.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAACQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-03T19:52:22.688Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
